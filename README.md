@@ -1,5 +1,11 @@
 # simple_solution_to_see_our_consume_tplink-smarthome
-Simple solution to see our consume tplink-smarthome. Using node enchufes.js after install tplink-smarthome-api Edit Add topics
+Simple solution to see our consume tplink-smarthome.
+
+Steps///
+1 - npm install tplink-smarthome-api
+2 - node enchufes.js
+
+;)
 
 Result :
 
