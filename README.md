@@ -5,6 +5,8 @@ Steps///
 1 - npm install tplink-smarthome-api
 2 - node enchufes.js
 
+if you need change ip device, using tplink-smarthome-api search
+
 ;)
 
 Result :
